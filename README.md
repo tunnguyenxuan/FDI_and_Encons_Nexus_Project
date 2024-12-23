@@ -85,12 +85,12 @@ Hansen test of overid. restrictions: chi2(21)   =  13.48  Prob > chi2 =  0.891
 
 ### Data Sources
 ---
-- Energy balances data (Raw_world_energy_balances_highlights_2024.xlsx): The dataset is collected from the International Energy Agency (IEA) for the 2024 edition. It contains energy balances in multiple products characterized by different flows of OECD and OECD-associated countries from 1971 - 2023.
-- Historical population data (Raw_historical_population.csv): the dataset is collected from World Development Indicators, containing the total population of 266 countries & regions from 2004 - 2023.
-- FDI inflow data (Raw_foreign_direct_investment_net_inflows_pcGDP.csv): the dataset source is from World Development Indicators, containing net inflows of FDI(% of GDP) of 266 countries & regions from 1960 - 2023.
-- Institutional quality data (Raw_aggregate_governance_indicators.xlsx): the dataset covers 6 indicators of governance, including Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The Worldwide Governance Indicators construct this dataset with time series from 1996 - 2022
-- GDP per capita growth data (Raw_GDP_per_capita.csv): the dataset is garnered by World Development Indicators, demonstrating the GDP per capita growth (% annual) of 266 countries & regions from 1960 - 2023.
-- CPI data (Raw_CPI_2010_base_year.csv): The dataset is from World Development Indicators, demonstrating the consumer price index (2010 = 100) of 266 countries & regions from 2004 - 2023.
+- **Energy balances data** *(Raw_world_energy_balances_highlights_2024.xlsx)*: The dataset is collected from the International Energy Agency (IEA) for the 2024 edition. It contains energy balances in multiple products characterized by different flows of OECD and OECD-associated countries from 1971 - 2023.
+- **Historical population data** *(Raw_historical_population.csv)*: the dataset is collected from World Development Indicators, containing the total population of 266 countries & regions from 2004 - 2023.
+- **FDI inflow data** (Raw_foreign_direct_investment_net_inflows_pcGDP.csv): the dataset source is from World Development Indicators, containing net inflows of FDI(% of GDP) of 266 countries & regions from 1960 - 2023.
+- **Institutional quality data** *(Raw_aggregate_governance_indicators.xlsx)*: the dataset covers 6 indicators of governance, including Voice and Accountability, Political Stability and Absence of Violence/Terrorism, Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption. The Worldwide Governance Indicators construct this dataset with time series from 1996 - 2022
+- **GDP per capita growth data** *(Raw_GDP_per_capita.csv)*: the dataset is garnered by World Development Indicators, demonstrating the GDP per capita growth (% annual) of 266 countries & regions from 1960 - 2023.
+- **CPI data** *(Raw_CPI_2010_base_year.csv)*: The dataset is from World Development Indicators, demonstrating the consumer price index (2010 = 100) of 266 countries & regions from 2004 - 2023.
 
 ### Tools
 ---
