@@ -66,3 +66,7 @@ The analysis results are summarized as follows:
 ### References
 1. Panel GMM [(Youtube)](https://www.youtube.com/watch?v=Ou4BwR4M6do&list=PL6Y8SvWdPo08BIszhwcL2jydMgBXMCKwb)
 2. Hansen or Sargan Test Results [(Statalist Forum)](https://www.statalist.org/forums/forum/general-stata-discussion/general/1432620-xtabond2-system-gmm-robust-estimation-do-i-use-hansen-or-sargan-test-results)
+3. Generalized method of moments estimation of linear dynamic panel data models [(Slides)](http://repec.org/usug2019/Kripfganz_uk19.pdf)
+4. GMM Estimation in Stata [(Slides)](https://ocw.mit.edu/courses/14-382-econometrics-spring-2017/33c39c3c1de04b9ef16e780dd8b4fa98_MIT14_382S17_GMMslides.pdf)
+5. Two-Step System GMM with xtabond2 command [(Statalist Forum)](https://www.statalist.org/forums/forum/general-stata-discussion/general/1681664-two-step-system-gmm-with-xtabond2-command)
+6. System GMM - Time dummies [(Statalist Forum)](https://www.statalist.org/forums/forum/general-stata-discussion/general/1357268-system-gmm-time-dummies)
