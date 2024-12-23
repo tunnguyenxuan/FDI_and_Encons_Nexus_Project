@@ -14,7 +14,7 @@
 
 Inspecting the influences of FDI inflows on low-carbon, non-low-carbon, and total industrial energy consumption of officially 49 OECD-based countries under the moderating effects of 6 institutional-quality indicators, covering the time series of 19 years (2004 - 2022). 
 
-#### Findings on the impact of FDI inflows on low-carbon energy under the moderation of composite institutional quality -- Find more in folder "Data_Analysis"
+#### Findings on the impact of FDI inflows on low-carbon energy under the moderation of composite institutional quality -- Find more in the folder "Data_Analysis"
 ```Stata
 Dynamic panel-data estimation, two-step system GMM
 ------------------------------------------------------------------------------
@@ -78,7 +78,7 @@ Sargan test of overid. restrictions: chi2(21)   =  30.97  Prob > chi2 =  0.074
 Hansen test of overid. restrictions: chi2(21)   =  13.48  Prob > chi2 =  0.891
   (Robust, but weakened by many instruments.)
 ```
-#### Data Joining using SQL -- Find more in "Data_Cleansing_and_Preparation"
+#### Data Joining using SQL -- Find more in the folder "Data_Cleansing_and_Preparation"
 ![image](https://github.com/user-attachments/assets/ddebc730-4045-4511-96f4-243ff1da89d8)
 
 
