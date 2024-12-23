@@ -94,9 +94,9 @@ Hansen test of overid. restrictions: chi2(21)   =  13.48  Prob > chi2 =  0.891
 
 ### Tools
 ---
-- MS Excel - Data Cleaning [(Download here)](https://www.microsoft.com/en-us/microsoft-365/excel)
-- SQL Server - Data Cleaning, Standardizing, and Joining [(Download here)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- STATA 17 - Data Analysis [(Download here)](https://download.stata.com/download/)
+- **MS Excel** - Data Cleaning [(Download here)](https://www.microsoft.com/en-us/microsoft-365/excel)
+- **SQL Server** - Data Cleaning, Standardizing, and Joining [(Download here)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- **STATA 17** - Data Analysis [(Download here)](https://download.stata.com/download/)
 
 ### Data Cleansing/Preparation
 ---
