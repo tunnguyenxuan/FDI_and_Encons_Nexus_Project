@@ -8,6 +8,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results/Findings](#resultsfindings)
 - [Limitations](#limitations)
+- [References](#references)
 
 ### Project Overview
 
